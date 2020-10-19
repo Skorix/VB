@@ -1,0 +1,12 @@
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.vbprojAssemblyReference.cache
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.Form1.resources
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.Resources.resources
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.vbproj.GenerateResource.cache
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.vbproj.CoreCompileInputs.cache
+G:\vb\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.exe.config
+G:\vb\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.exe
+G:\vb\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.pdb
+G:\vb\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.xml
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.exe
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.xml
+G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.pdb

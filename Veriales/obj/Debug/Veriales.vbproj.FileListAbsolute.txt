@@ -1,0 +1,12 @@
+G:\vb\Veriales\bin\Debug\Veriales.exe.config
+G:\vb\Veriales\bin\Debug\Veriales.exe
+G:\vb\Veriales\bin\Debug\Veriales.pdb
+G:\vb\Veriales\bin\Debug\Veriales.xml
+G:\vb\Veriales\obj\Debug\Veriales.vbprojAssemblyReference.cache
+G:\vb\Veriales\obj\Debug\Veriales.Form1.resources
+G:\vb\Veriales\obj\Debug\Veriales.Resources.resources
+G:\vb\Veriales\obj\Debug\Veriales.vbproj.GenerateResource.cache
+G:\vb\Veriales\obj\Debug\Veriales.vbproj.CoreCompileInputs.cache
+G:\vb\Veriales\obj\Debug\Veriales.exe
+G:\vb\Veriales\obj\Debug\Veriales.xml
+G:\vb\Veriales\obj\Debug\Veriales.pdb
