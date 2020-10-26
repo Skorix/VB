@@ -1,0 +1,12 @@
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.vbprojAssemblyReference.cache
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.Form1.resources
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.Resources.resources
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.vbproj.GenerateResource.cache
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Perimeter\bin\Debug\Perimeter.exe.config
+D:\GitHub\VB\Perimeter\bin\Debug\Perimeter.exe
+D:\GitHub\VB\Perimeter\bin\Debug\Perimeter.pdb
+D:\GitHub\VB\Perimeter\bin\Debug\Perimeter.xml
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.exe
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.xml
+D:\GitHub\VB\Perimeter\obj\Debug\Perimeter.pdb

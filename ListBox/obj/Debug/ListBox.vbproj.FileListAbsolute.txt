@@ -1,0 +1,12 @@
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.vbprojAssemblyReference.cache
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.Form1.resources
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.Resources.resources
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.vbproj.GenerateResource.cache
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\ListBox\bin\Debug\ListBox.exe.config
+D:\GitHub\VB\ListBox\bin\Debug\ListBox.exe
+D:\GitHub\VB\ListBox\bin\Debug\ListBox.pdb
+D:\GitHub\VB\ListBox\bin\Debug\ListBox.xml
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.exe
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.xml
+D:\GitHub\VB\ListBox\obj\Debug\ListBox.pdb

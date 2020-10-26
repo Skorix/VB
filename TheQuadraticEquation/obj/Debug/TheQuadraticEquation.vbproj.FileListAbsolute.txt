@@ -10,3 +10,15 @@ G:\vb\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.xml
 G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.exe
 G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.xml
 G:\vb\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.pdb
+D:\GitHub\VB\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.exe.config
+D:\GitHub\VB\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.exe
+D:\GitHub\VB\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.pdb
+D:\GitHub\VB\TheQuadraticEquation\bin\Debug\TheQuadraticEquation.xml
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.vbprojAssemblyReference.cache
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.Form1.resources
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.Resources.resources
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.vbproj.GenerateResource.cache
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.exe
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.xml
+D:\GitHub\VB\TheQuadraticEquation\obj\Debug\TheQuadraticEquation.pdb

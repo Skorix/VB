@@ -1,0 +1,12 @@
+F:\GitHub\VB\Greeting\bin\Debug\Greeting.exe.config
+F:\GitHub\VB\Greeting\bin\Debug\Greeting.exe
+F:\GitHub\VB\Greeting\bin\Debug\Greeting.pdb
+F:\GitHub\VB\Greeting\bin\Debug\Greeting.xml
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.vbprojAssemblyReference.cache
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.Form1.resources
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.Resources.resources
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.vbproj.GenerateResource.cache
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.vbproj.CoreCompileInputs.cache
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.exe
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.xml
+F:\GitHub\VB\Greeting\obj\Debug\Greeting.pdb

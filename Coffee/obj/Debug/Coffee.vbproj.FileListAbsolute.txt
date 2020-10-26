@@ -10,3 +10,15 @@ G:\vb\Coffee\bin\Debug\Coffee.xml
 G:\vb\Coffee\obj\Debug\Coffee.exe
 G:\vb\Coffee\obj\Debug\Coffee.xml
 G:\vb\Coffee\obj\Debug\Coffee.pdb
+D:\GitHub\VB\Coffee\bin\Debug\Coffee.exe.config
+D:\GitHub\VB\Coffee\bin\Debug\Coffee.exe
+D:\GitHub\VB\Coffee\bin\Debug\Coffee.pdb
+D:\GitHub\VB\Coffee\bin\Debug\Coffee.xml
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.vbprojAssemblyReference.cache
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.Form1.resources
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.Resources.resources
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.vbproj.GenerateResource.cache
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.exe
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.xml
+D:\GitHub\VB\Coffee\obj\Debug\Coffee.pdb

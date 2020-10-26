@@ -1,0 +1,12 @@
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.vbprojAssemblyReference.cache
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.Form1.resources
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.Resources.resources
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.vbproj.GenerateResource.cache
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\SquareRootExtraction\bin\Debug\SquareRootExtraction.exe.config
+D:\GitHub\VB\SquareRootExtraction\bin\Debug\SquareRootExtraction.exe
+D:\GitHub\VB\SquareRootExtraction\bin\Debug\SquareRootExtraction.pdb
+D:\GitHub\VB\SquareRootExtraction\bin\Debug\SquareRootExtraction.xml
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.exe
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.xml
+D:\GitHub\VB\SquareRootExtraction\obj\Debug\SquareRootExtraction.pdb

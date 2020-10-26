@@ -10,3 +10,15 @@ G:\vb\Veriales\obj\Debug\Veriales.vbproj.CoreCompileInputs.cache
 G:\vb\Veriales\obj\Debug\Veriales.exe
 G:\vb\Veriales\obj\Debug\Veriales.xml
 G:\vb\Veriales\obj\Debug\Veriales.pdb
+D:\GitHub\VB\Veriales\bin\Debug\Veriales.exe.config
+D:\GitHub\VB\Veriales\bin\Debug\Veriales.exe
+D:\GitHub\VB\Veriales\bin\Debug\Veriales.pdb
+D:\GitHub\VB\Veriales\bin\Debug\Veriales.xml
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.vbprojAssemblyReference.cache
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.Form1.resources
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.Resources.resources
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.vbproj.GenerateResource.cache
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.exe
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.xml
+D:\GitHub\VB\Veriales\obj\Debug\Veriales.pdb
