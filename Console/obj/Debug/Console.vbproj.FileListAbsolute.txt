@@ -1,0 +1,4 @@
+D:\GitHub\VB\Console\obj\Debug\Console.vbprojAssemblyReference.cache
+D:\GitHub\VB\Console\obj\Debug\Console.Resources.resources
+D:\GitHub\VB\Console\obj\Debug\Console.vbproj.GenerateResource.cache
+D:\GitHub\VB\Console\obj\Debug\Console.vbproj.CoreCompileInputs.cache

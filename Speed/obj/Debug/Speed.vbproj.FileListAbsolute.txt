@@ -1,0 +1,12 @@
+D:\GitHub\VB\Speed\obj\Debug\Speed.vbprojAssemblyReference.cache
+D:\GitHub\VB\Speed\obj\Debug\Speed.Form1.resources
+D:\GitHub\VB\Speed\obj\Debug\Speed.Resources.resources
+D:\GitHub\VB\Speed\obj\Debug\Speed.vbproj.GenerateResource.cache
+D:\GitHub\VB\Speed\obj\Debug\Speed.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Speed\bin\Debug\Speed.exe.config
+D:\GitHub\VB\Speed\bin\Debug\Speed.exe
+D:\GitHub\VB\Speed\bin\Debug\Speed.pdb
+D:\GitHub\VB\Speed\bin\Debug\Speed.xml
+D:\GitHub\VB\Speed\obj\Debug\Speed.exe
+D:\GitHub\VB\Speed\obj\Debug\Speed.xml
+D:\GitHub\VB\Speed\obj\Debug\Speed.pdb
