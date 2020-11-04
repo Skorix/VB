@@ -1,0 +1,11 @@
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.vbprojAssemblyReference.cache
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.Resources.resources
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.vbproj.GenerateResource.cache
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\ConsoleAppSpeed\bin\Debug\ConsoleAppSpeed.exe.config
+D:\GitHub\VB\ConsoleAppSpeed\bin\Debug\ConsoleAppSpeed.exe
+D:\GitHub\VB\ConsoleAppSpeed\bin\Debug\ConsoleAppSpeed.pdb
+D:\GitHub\VB\ConsoleAppSpeed\bin\Debug\ConsoleAppSpeed.xml
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.exe
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.xml
+D:\GitHub\VB\ConsoleAppSpeed\obj\Debug\ConsoleAppSpeed.pdb
