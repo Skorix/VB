@@ -8,9 +8,9 @@
         x = Console.ReadLine()
 
         Console.WriteLine("Введите второе слагаемое:")
-        Y = Console.ReadLine()
+        y = Console.ReadLine()
 
-        Z = X + y
+        z = x + y
 
         Console.WriteLine("{0} + {1} = {2}", x, y, z)
         Console.Read()

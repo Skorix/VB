@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F7C0167A-A9A6-4EC2-9C91-706F89733941}</ProjectGuid>
+    <ProjectGuid>{1E671BEC-5248-4E35-9140-C2159BA27F8F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>ConsoleApp1.Module1</StartupObject>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <StartupObject>ConsoleAppSum.Module1</StartupObject>
+    <RootNamespace>ConsoleAppSum</RootNamespace>
+    <AssemblyName>ConsoleAppSum</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>ConsoleApp1.xml</DocumentationFile>
+    <DocumentationFile>ConsoleAppSum.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>ConsoleApp1.xml</DocumentationFile>
+    <DocumentationFile>ConsoleAppSum.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

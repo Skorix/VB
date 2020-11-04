@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Проверьте значения атрибутов сборки
 
-<Assembly: AssemblyTitle("ConsoleApp1")>
+<Assembly: AssemblyTitle("ConsoleAppSum")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("ConsoleApp1")>
+<Assembly: AssemblyProduct("ConsoleAppSum")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-<Assembly: Guid("b6a3d56b-8c2b-4a2c-af50-bc91de2d93f6")>
+<Assembly: Guid("e170a588-96da-45e4-8430-c64268b933e9")>
 
 ' Сведения о версии сборки состоят из следующих четырех значений:
 '
