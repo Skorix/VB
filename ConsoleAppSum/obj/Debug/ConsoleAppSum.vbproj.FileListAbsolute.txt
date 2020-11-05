@@ -1,0 +1,11 @@
+F:\GitHub\VB\ConsoleAppSum\bin\Debug\ConsoleAppSum.exe.config
+F:\GitHub\VB\ConsoleAppSum\bin\Debug\ConsoleAppSum.exe
+F:\GitHub\VB\ConsoleAppSum\bin\Debug\ConsoleAppSum.pdb
+F:\GitHub\VB\ConsoleAppSum\bin\Debug\ConsoleAppSum.xml
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.vbprojAssemblyReference.cache
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.Resources.resources
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.vbproj.GenerateResource.cache
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.vbproj.CoreCompileInputs.cache
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.exe
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.xml
+F:\GitHub\VB\ConsoleAppSum\obj\Debug\ConsoleAppSum.pdb

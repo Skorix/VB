@@ -1,0 +1,12 @@
+F:\GitHub\VB\Percent\bin\Debug\Percent.exe.config
+F:\GitHub\VB\Percent\bin\Debug\Percent.exe
+F:\GitHub\VB\Percent\obj\Debug\Percent.vbprojAssemblyReference.cache
+F:\GitHub\VB\Percent\obj\Debug\Percent.Form1.resources
+F:\GitHub\VB\Percent\obj\Debug\Percent.Resources.resources
+F:\GitHub\VB\Percent\obj\Debug\Percent.vbproj.GenerateResource.cache
+F:\GitHub\VB\Percent\obj\Debug\Percent.vbproj.CoreCompileInputs.cache
+F:\GitHub\VB\Percent\obj\Debug\Percent.exe
+F:\GitHub\VB\Percent\obj\Debug\Percent.xml
+F:\GitHub\VB\Percent\obj\Debug\Percent.pdb
+F:\GitHub\VB\Percent\bin\Debug\Percent.pdb
+F:\GitHub\VB\Percent\bin\Debug\Percent.xml

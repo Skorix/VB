@@ -1,0 +1,12 @@
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.vbprojAssemblyReference.cache
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.Form1.resources
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.Resources.resources
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.vbproj.GenerateResource.cache
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Pictures\bin\Debug\Pictures.exe.config
+D:\GitHub\VB\Pictures\bin\Debug\Pictures.exe
+D:\GitHub\VB\Pictures\bin\Debug\Pictures.pdb
+D:\GitHub\VB\Pictures\bin\Debug\Pictures.xml
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.exe
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.xml
+D:\GitHub\VB\Pictures\obj\Debug\Pictures.pdb
