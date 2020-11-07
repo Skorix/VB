@@ -1,0 +1,12 @@
+D:\GitHub\VB\DivisibilityOfNumbers\bin\Debug\DivisibilityOfNumbers.exe.config
+D:\GitHub\VB\DivisibilityOfNumbers\bin\Debug\DivisibilityOfNumbers.exe
+D:\GitHub\VB\DivisibilityOfNumbers\bin\Debug\DivisibilityOfNumbers.pdb
+D:\GitHub\VB\DivisibilityOfNumbers\bin\Debug\DivisibilityOfNumbers.xml
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.vbprojAssemblyReference.cache
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.Form1.resources
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.Resources.resources
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.vbproj.GenerateResource.cache
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.exe
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.xml
+D:\GitHub\VB\DivisibilityOfNumbers\obj\Debug\DivisibilityOfNumbers.pdb

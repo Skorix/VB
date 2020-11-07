@@ -1,0 +1,12 @@
+F:\GitHub\VB\5\bin\Debug\5.exe.config
+F:\GitHub\VB\5\bin\Debug\5.exe
+F:\GitHub\VB\5\bin\Debug\5.pdb
+F:\GitHub\VB\5\bin\Debug\5.xml
+F:\GitHub\VB\5\obj\Debug\5.vbprojAssemblyReference.cache
+F:\GitHub\VB\5\obj\Debug\_5.Form1.resources
+F:\GitHub\VB\5\obj\Debug\_5.Resources.resources
+F:\GitHub\VB\5\obj\Debug\5.vbproj.GenerateResource.cache
+F:\GitHub\VB\5\obj\Debug\5.vbproj.CoreCompileInputs.cache
+F:\GitHub\VB\5\obj\Debug\5.exe
+F:\GitHub\VB\5\obj\Debug\5.xml
+F:\GitHub\VB\5\obj\Debug\5.pdb
