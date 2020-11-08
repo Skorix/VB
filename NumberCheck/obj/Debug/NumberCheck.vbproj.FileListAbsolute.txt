@@ -1,0 +1,12 @@
+D:\GitHub\VB\NumberCheck\bin\Debug\NumberCheck.exe.config
+D:\GitHub\VB\NumberCheck\bin\Debug\NumberCheck.exe
+D:\GitHub\VB\NumberCheck\bin\Debug\NumberCheck.pdb
+D:\GitHub\VB\NumberCheck\bin\Debug\NumberCheck.xml
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.vbprojAssemblyReference.cache
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.Form1.resources
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.Resources.resources
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.vbproj.GenerateResource.cache
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.exe
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.xml
+D:\GitHub\VB\NumberCheck\obj\Debug\NumberCheck.pdb

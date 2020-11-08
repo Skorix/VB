@@ -1,0 +1,12 @@
+D:\GitHub\VB\SimpleFactor\bin\Debug\SimpleFactor.exe.config
+D:\GitHub\VB\SimpleFactor\bin\Debug\SimpleFactor.exe
+D:\GitHub\VB\SimpleFactor\bin\Debug\SimpleFactor.pdb
+D:\GitHub\VB\SimpleFactor\bin\Debug\SimpleFactor.xml
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.vbprojAssemblyReference.cache
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.Form1.resources
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.Resources.resources
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.vbproj.GenerateResource.cache
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.exe
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.xml
+D:\GitHub\VB\SimpleFactor\obj\Debug\SimpleFactor.pdb
