@@ -30,7 +30,7 @@
 
         Else
 
-            Label2.Text = "Вы Ввели 0"
+            Label2.Text = "Вы ввели 0"
 
         End If
 
@@ -74,7 +74,7 @@
 
             If ost = 0 Or ost = 5 Then
 
-                Label2.Text = "Число " & n & " делитсяна 5"
+                Label2.Text = "Число " & n & " делится на 5"
 
             Else
 
@@ -84,7 +84,7 @@
 
         Else
 
-            Label2.Text = "Выввели 0"
+            Label2.Text = "Вы ввели 0"
 
         End If
 

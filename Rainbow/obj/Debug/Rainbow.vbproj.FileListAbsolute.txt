@@ -1,0 +1,12 @@
+D:\GitHub\VB\Rainbow\bin\Debug\Rainbow.exe.config
+D:\GitHub\VB\Rainbow\bin\Debug\Rainbow.exe
+D:\GitHub\VB\Rainbow\bin\Debug\Rainbow.pdb
+D:\GitHub\VB\Rainbow\bin\Debug\Rainbow.xml
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.vbprojAssemblyReference.cache
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.Form1.resources
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.Resources.resources
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.vbproj.GenerateResource.cache
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.exe
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.xml
+D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.pdb
