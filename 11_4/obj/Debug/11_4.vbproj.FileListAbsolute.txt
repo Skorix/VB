@@ -1,0 +1,11 @@
+F:\GitHub\VB\11_4\obj\Debug\_11_4.Form1.resources
+F:\GitHub\VB\11_4\obj\Debug\_11_4.Resources.resources
+F:\GitHub\VB\11_4\obj\Debug\11_4.vbproj.GenerateResource.cache
+F:\GitHub\VB\11_4\obj\Debug\11_4.vbproj.CoreCompileInputs.cache
+F:\GitHub\VB\11_4\bin\Debug\11_4.exe.config
+F:\GitHub\VB\11_4\bin\Debug\11_4.exe
+F:\GitHub\VB\11_4\bin\Debug\11_4.pdb
+F:\GitHub\VB\11_4\bin\Debug\11_4.xml
+F:\GitHub\VB\11_4\obj\Debug\11_4.exe
+F:\GitHub\VB\11_4\obj\Debug\11_4.xml
+F:\GitHub\VB\11_4\obj\Debug\11_4.pdb

@@ -10,3 +10,15 @@ D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.vbproj.CoreCompileInputs.cache
 D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.exe
 D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.xml
 D:\GitHub\VB\Rainbow\obj\Debug\Rainbow.pdb
+C:\Users\Студент\Desktop\VB04\Rainbow\bin\Debug\Rainbow.exe.config
+C:\Users\Студент\Desktop\VB04\Rainbow\bin\Debug\Rainbow.exe
+C:\Users\Студент\Desktop\VB04\Rainbow\bin\Debug\Rainbow.pdb
+C:\Users\Студент\Desktop\VB04\Rainbow\bin\Debug\Rainbow.xml
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.vbprojAssemblyReference.cache
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.Form1.resources
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.Resources.resources
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.vbproj.GenerateResource.cache
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.vbproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.exe
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.xml
+C:\Users\Студент\Desktop\VB04\Rainbow\obj\Debug\Rainbow.pdb
