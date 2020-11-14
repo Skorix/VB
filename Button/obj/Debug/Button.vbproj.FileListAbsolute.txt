@@ -1,0 +1,12 @@
+D:\GitHub\VB\Button\bin\Debug\Button.exe.config
+D:\GitHub\VB\Button\bin\Debug\Button.exe
+D:\GitHub\VB\Button\bin\Debug\Button.pdb
+D:\GitHub\VB\Button\bin\Debug\Button.xml
+D:\GitHub\VB\Button\obj\Debug\Button.vbprojAssemblyReference.cache
+D:\GitHub\VB\Button\obj\Debug\Button.Form1.resources
+D:\GitHub\VB\Button\obj\Debug\Button.Resources.resources
+D:\GitHub\VB\Button\obj\Debug\Button.vbproj.GenerateResource.cache
+D:\GitHub\VB\Button\obj\Debug\Button.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\Button\obj\Debug\Button.exe
+D:\GitHub\VB\Button\obj\Debug\Button.xml
+D:\GitHub\VB\Button\obj\Debug\Button.pdb

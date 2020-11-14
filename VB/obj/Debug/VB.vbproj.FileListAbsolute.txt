@@ -1,0 +1,13 @@
+D:\GitHub\VB\VB\bin\Debug\VB.exe.config
+D:\GitHub\VB\VB\bin\Debug\VB.exe
+D:\GitHub\VB\VB\bin\Debug\VB.pdb
+D:\GitHub\VB\VB\bin\Debug\VB.xml
+D:\GitHub\VB\VB\obj\Debug\VB.vbprojAssemblyReference.cache
+D:\GitHub\VB\VB\obj\Debug\VB.Resources.resources
+D:\GitHub\VB\VB\obj\Debug\VB.vbproj.GenerateResource.cache
+D:\GitHub\VB\VB\obj\Debug\VB.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\VB\obj\Debug\VB.exe
+D:\GitHub\VB\VB\obj\Debug\VB.xml
+D:\GitHub\VB\VB\obj\Debug\VB.pdb
+D:\GitHub\VB\VB\obj\Debug\VB.Кафе.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Меню.resources

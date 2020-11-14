@@ -1,0 +1,12 @@
+D:\GitHub\VB\20\obj\Debug\20.vbprojAssemblyReference.cache
+D:\GitHub\VB\20\obj\Debug\_20.Form1.resources
+D:\GitHub\VB\20\obj\Debug\_20.Resources.resources
+D:\GitHub\VB\20\obj\Debug\20.vbproj.GenerateResource.cache
+D:\GitHub\VB\20\obj\Debug\20.vbproj.CoreCompileInputs.cache
+D:\GitHub\VB\20\bin\Debug\20.exe.config
+D:\GitHub\VB\20\bin\Debug\20.exe
+D:\GitHub\VB\20\bin\Debug\20.pdb
+D:\GitHub\VB\20\bin\Debug\20.xml
+D:\GitHub\VB\20\obj\Debug\20.exe
+D:\GitHub\VB\20\obj\Debug\20.xml
+D:\GitHub\VB\20\obj\Debug\20.pdb
