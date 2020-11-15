@@ -73,6 +73,42 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="9.Designer.vb">
+      <DependentUpon>9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyForLoop.Designer.vb">
+      <DependentUpon>MyForLoop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyForLoop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Выбор подарка.Designer.vb">
+      <DependentUpon>Выбор подарка.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Выбор подарка.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Делимость чисел.Designer.vb">
+      <DependentUpon>Делимость чисел.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Делимость чисел.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Доход по вкладу.Designer.vb">
+      <DependentUpon>Доход по вкладу.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Доход по вкладу.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Переменные.Designer.vb">
+      <DependentUpon>Переменные.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Переменные.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Кафе.Designer.vb">
       <DependentUpon>Кафе.vb</DependentUpon>
     </Compile>
@@ -102,8 +138,41 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Приветствие.Designer.vb">
+      <DependentUpon>Приветствие.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Приветствие.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Проверка номера.Designer.vb">
+      <DependentUpon>Проверка номера.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Проверка номера.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Решение квадратного уравнения.Designer.vb">
+      <DependentUpon>Решение квадратного уравнения.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Решение квадратного уравнения.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="9.resx">
+      <DependentUpon>9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForLoop.resx">
+      <DependentUpon>MyForLoop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Выбор подарка.resx">
+      <DependentUpon>Выбор подарка.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Делимость чисел.resx">
+      <DependentUpon>Делимость чисел.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Доход по вкладу.resx">
+      <DependentUpon>Доход по вкладу.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Кафе.resx">
       <DependentUpon>Кафе.vb</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +184,18 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Переменные.resx">
+      <DependentUpon>Переменные.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Приветствие.resx">
+      <DependentUpon>Приветствие.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Проверка номера.resx">
+      <DependentUpon>Проверка номера.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Решение квадратного уравнения.resx">
+      <DependentUpon>Решение квадратного уравнения.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
