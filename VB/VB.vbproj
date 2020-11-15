@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="11.Designer.vb">
+      <DependentUpon>11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="11.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="9.Designer.vb">
       <DependentUpon>9.vb</DependentUpon>
     </Compile>
@@ -83,6 +89,12 @@
       <DependentUpon>MyForLoop.vb</DependentUpon>
     </Compile>
     <Compile Include="MyForLoop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Бегущая строка.Designer.vb">
+      <DependentUpon>Бегущая строка.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Бегущая строка.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Выбор подарка.Designer.vb">
@@ -101,6 +113,18 @@
       <DependentUpon>Доход по вкладу.vb</DependentUpon>
     </Compile>
     <Compile Include="Доход по вкладу.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Пароль на время.Designer.vb">
+      <DependentUpon>Пароль на время.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Пароль на время.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Пароль на время2.Designer.vb">
+      <DependentUpon>Пароль на время2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Пароль на время2.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Переменные.Designer.vb">
@@ -150,19 +174,43 @@
     <Compile Include="Проверка номера.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Простые множители.Designer.vb">
+      <DependentUpon>Простые множители.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Простые множители.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Радуга.Designer.vb">
+      <DependentUpon>Радуга.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Радуга.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Решение квадратного уравнения.Designer.vb">
       <DependentUpon>Решение квадратного уравнения.vb</DependentUpon>
     </Compile>
     <Compile Include="Решение квадратного уравнения.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Тест на время.Designer.vb">
+      <DependentUpon>Тест на время.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Тест на время.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="11.resx">
+      <DependentUpon>11.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="9.resx">
       <DependentUpon>9.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MyForLoop.resx">
       <DependentUpon>MyForLoop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Бегущая строка.resx">
+      <DependentUpon>Бегущая строка.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Выбор подарка.resx">
       <DependentUpon>Выбор подарка.vb</DependentUpon>
@@ -185,6 +233,12 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Пароль на время.resx">
+      <DependentUpon>Пароль на время.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пароль на время2.resx">
+      <DependentUpon>Пароль на время2.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Переменные.resx">
       <DependentUpon>Переменные.vb</DependentUpon>
     </EmbeddedResource>
@@ -194,8 +248,17 @@
     <EmbeddedResource Include="Проверка номера.resx">
       <DependentUpon>Проверка номера.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Простые множители.resx">
+      <DependentUpon>Простые множители.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Радуга.resx">
+      <DependentUpon>Радуга.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Решение квадратного уравнения.resx">
       <DependentUpon>Решение квадратного уравнения.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Тест на время.resx">
+      <DependentUpon>Тест на время.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

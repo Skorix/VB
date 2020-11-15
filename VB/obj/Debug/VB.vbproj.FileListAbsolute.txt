@@ -20,3 +20,10 @@ D:\GitHub\VB\VB\obj\Debug\VB.MyForLoop.resources
 D:\GitHub\VB\VB\obj\Debug\VB.Делимость_чисел.resources
 D:\GitHub\VB\VB\obj\Debug\VB._9.resources
 D:\GitHub\VB\VB\obj\Debug\VB.Проверка_номера.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Простые_множители.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Тест_на_время.resources
+D:\GitHub\VB\VB\obj\Debug\VB._11.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Радуга.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Бегущая_строка.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Пароль_на_время.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Пароль_на_время2.resources

@@ -42,4 +42,14 @@
         Me.Hide()
         _9.Show()
     End Sub
+
+    Private Sub Button10_Click(sender As Object, e As EventArgs) Handles Button10.Click
+        Me.Hide()
+        Тест_на_время.Show()
+    End Sub
+
+    Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
+        Me.Hide()
+        _11.show()
+    End Sub
 End Class

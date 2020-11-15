@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class _9
+Partial Class Пароль_на_время
     Inherits System.Windows.Forms.Form
 
     'Форма переопределяет dispose для очистки списка компонентов.
@@ -22,9 +22,10 @@ Partial Class _9
     'Не изменяйте ее в редакторе исходного кода.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.SuspendLayout()
         '
         'Button1
@@ -33,42 +34,38 @@ Partial Class _9
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Меню"
+        Me.Button1.Text = "Назад"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Button2
+        'TextBox1
         '
-        Me.Button2.Location = New System.Drawing.Point(258, 137)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(131, 23)
-        Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Проверка номера"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.TextBox1.Location = New System.Drawing.Point(326, 128)
+        Me.TextBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
+        Me.TextBox1.Size = New System.Drawing.Size(148, 20)
+        Me.TextBox1.TabIndex = 3
         '
-        'Button3
+        'Timer1
         '
-        Me.Button3.Location = New System.Drawing.Point(490, 160)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(157, 23)
-        Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Простые множители"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Timer1.Enabled = True
+        Me.Timer1.Interval = 5000
         '
-        '_9
+        'Пароль_на_время
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button1)
-        Me.Name = "_9"
-        Me.Text = "_9"
+        Me.Name = "Пароль_на_время"
+        Me.Text = "Пароль_на_время"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
-    Friend WithEvents Button3 As Button
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Timer1 As Timer
 End Class

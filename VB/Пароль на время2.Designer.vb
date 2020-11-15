@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class _9
+Partial Class Пароль_на_время2
     Inherits System.Windows.Forms.Form
 
     'Форма переопределяет dispose для очистки списка компонентов.
@@ -23,52 +23,42 @@ Partial Class _9
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(13, 13)
+        Me.Button1.Location = New System.Drawing.Point(387, 268)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Меню"
+        Me.Button1.Size = New System.Drawing.Size(94, 46)
+        Me.Button1.TabIndex = 3
+        Me.Button1.Text = "Назад"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Button2
+        'Label1
         '
-        Me.Button2.Location = New System.Drawing.Point(258, 137)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(131, 23)
-        Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Проверка номера"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(320, 137)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(159, 13)
+        Me.Label1.TabIndex = 2
+        Me.Label1.Text = "Вы ввели правильный пароль"
         '
-        'Button3
-        '
-        Me.Button3.Location = New System.Drawing.Point(490, 160)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(157, 23)
-        Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Простые множители"
-        Me.Button3.UseVisualStyleBackColor = True
-        '
-        '_9
+        'Пароль_на_время2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Name = "_9"
-        Me.Text = "_9"
+        Me.Controls.Add(Me.Label1)
+        Me.Name = "Пароль_на_время2"
+        Me.Text = "Пароль_на_время2"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
-    Friend WithEvents Button3 As Button
+    Friend WithEvents Label1 As Label
 End Class

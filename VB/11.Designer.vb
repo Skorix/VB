@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class _9
+Partial Class _11
     Inherits System.Windows.Forms.Form
 
     'Форма переопределяет dispose для очистки списка компонентов.
@@ -25,6 +25,7 @@ Partial Class _9
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -38,32 +39,42 @@ Partial Class _9
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(258, 137)
+        Me.Button2.Location = New System.Drawing.Point(169, 176)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(131, 23)
+        Me.Button2.Size = New System.Drawing.Size(158, 23)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Проверка номера"
+        Me.Button2.Text = "Радуга"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(490, 160)
+        Me.Button3.Location = New System.Drawing.Point(396, 176)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(157, 23)
+        Me.Button3.Size = New System.Drawing.Size(182, 23)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Простые множители"
+        Me.Button3.Text = "Бегущая строка"
         Me.Button3.UseVisualStyleBackColor = True
         '
-        '_9
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(191, 245)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(136, 23)
+        Me.Button4.TabIndex = 3
+        Me.Button4.Text = "Пароль на время"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
+        '_11
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Name = "_9"
-        Me.Text = "_9"
+        Me.Name = "_11"
+        Me.Text = "_11"
         Me.ResumeLayout(False)
 
     End Sub
@@ -71,4 +82,5 @@ Partial Class _9
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
+    Friend WithEvents Button4 As Button
 End Class

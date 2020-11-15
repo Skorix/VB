@@ -33,6 +33,7 @@ Partial Class Меню
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Button9 = New System.Windows.Forms.Button()
         Me.Button10 = New System.Windows.Forms.Button()
+        Me.Button11 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -124,8 +125,17 @@ Partial Class Меню
         Me.Button10.Name = "Button10"
         Me.Button10.Size = New System.Drawing.Size(625, 23)
         Me.Button10.TabIndex = 9
-        Me.Button10.Text = "Button10"
+        Me.Button10.Text = "Тест на время"
         Me.Button10.UseVisualStyleBackColor = True
+        '
+        'Button11
+        '
+        Me.Button11.Location = New System.Drawing.Point(13, 303)
+        Me.Button11.Name = "Button11"
+        Me.Button11.Size = New System.Drawing.Size(624, 23)
+        Me.Button11.TabIndex = 10
+        Me.Button11.Text = "Button11"
+        Me.Button11.UseVisualStyleBackColor = True
         '
         'Меню
         '
@@ -133,6 +143,7 @@ Partial Class Меню
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BlueViolet
         Me.ClientSize = New System.Drawing.Size(649, 326)
+        Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.Button10)
         Me.Controls.Add(Me.Button9)
         Me.Controls.Add(Me.Button8)
@@ -161,4 +172,5 @@ Partial Class Меню
     Friend WithEvents Button8 As Button
     Friend WithEvents Button9 As Button
     Friend WithEvents Button10 As Button
+    Friend WithEvents Button11 As Button
 End Class
