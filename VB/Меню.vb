@@ -52,4 +52,9 @@
         Me.Hide()
         _11.show()
     End Sub
+
+    Private Sub Button12_Click(sender As Object, e As EventArgs) Handles Button12.Click
+        Me.Hide()
+        _12.show()
+    End Sub
 End Class

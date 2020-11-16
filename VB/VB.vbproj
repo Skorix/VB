@@ -14,6 +14,23 @@
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\GitHub\SkorixAPP\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -47,6 +64,18 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8C98527D185929FD28AD81D833F42A0F372889B7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VB_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -79,6 +108,12 @@
     <Compile Include="11.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="12.Designer.vb">
+      <DependentUpon>12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="12.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="9.Designer.vb">
       <DependentUpon>9.vb</DependentUpon>
     </Compile>
@@ -89,6 +124,12 @@
       <DependentUpon>MyForLoop.vb</DependentUpon>
     </Compile>
     <Compile Include="MyForLoop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Анимация.Designer.vb">
+      <DependentUpon>Анимация.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Анимация.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Бегущая строка.Designer.vb">
@@ -209,6 +250,9 @@
     <EmbeddedResource Include="MyForLoop.resx">
       <DependentUpon>MyForLoop.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Анимация.resx">
+      <DependentUpon>Анимация.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Бегущая строка.resx">
       <DependentUpon>Бегущая строка.vb</DependentUpon>
     </EmbeddedResource>
@@ -272,6 +316,19 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+    <None Include="VB_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

@@ -18,4 +18,9 @@
         Me.Hide()
         Пароль_на_время.Show()
     End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        Me.Hide()
+        Анимация.Show()
+    End Sub
 End Class

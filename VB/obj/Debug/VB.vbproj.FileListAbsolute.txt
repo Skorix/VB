@@ -27,3 +27,8 @@ D:\GitHub\VB\VB\obj\Debug\VB.Радуга.resources
 D:\GitHub\VB\VB\obj\Debug\VB.Бегущая_строка.resources
 D:\GitHub\VB\VB\obj\Debug\VB.Пароль_на_время.resources
 D:\GitHub\VB\VB\obj\Debug\VB.Пароль_на_время2.resources
+D:\GitHub\VB\VB\bin\Debug\VB.exe.manifest
+D:\GitHub\VB\VB\bin\Debug\VB.application
+D:\GitHub\VB\VB\obj\Debug\VB.exe.manifest
+D:\GitHub\VB\VB\obj\Debug\VB.application
+D:\GitHub\VB\VB\obj\Debug\VB.Анимация.resources
