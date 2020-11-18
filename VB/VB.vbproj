@@ -15,7 +15,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>D:\GitHub\SkorixAPP\</PublishUrl>
+    <PublishUrl>D:\GitHub\VB\EXE\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -25,8 +25,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <AutorunEnabled>true</AutorunEnabled>
-    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -114,10 +113,22 @@
     <Compile Include="12.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="13.Designer.vb">
+      <DependentUpon>13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="13.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="9.Designer.vb">
       <DependentUpon>9.vb</DependentUpon>
     </Compile>
     <Compile Include="9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MyForLoop.Designer.vb">
@@ -221,6 +232,12 @@
     <Compile Include="Простые множители.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Процедура.Designer.vb">
+      <DependentUpon>Процедура.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Процедура.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Радуга.Designer.vb">
       <DependentUpon>Радуга.vb</DependentUpon>
     </Compile>
@@ -244,8 +261,17 @@
     <EmbeddedResource Include="11.resx">
       <DependentUpon>11.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="12.resx">
+      <DependentUpon>12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13.resx">
+      <DependentUpon>13.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="9.resx">
       <DependentUpon>9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MyForLoop.resx">
       <DependentUpon>MyForLoop.vb</DependentUpon>
@@ -294,6 +320,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Простые множители.resx">
       <DependentUpon>Простые множители.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Процедура.resx">
+      <DependentUpon>Процедура.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Радуга.resx">
       <DependentUpon>Радуга.vb</DependentUpon>

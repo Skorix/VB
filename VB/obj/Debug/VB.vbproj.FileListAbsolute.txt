@@ -32,3 +32,7 @@ D:\GitHub\VB\VB\bin\Debug\VB.application
 D:\GitHub\VB\VB\obj\Debug\VB.exe.manifest
 D:\GitHub\VB\VB\obj\Debug\VB.application
 D:\GitHub\VB\VB\obj\Debug\VB.Анимация.resources
+D:\GitHub\VB\VB\obj\Debug\VB._13.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Процедура.resources
+D:\GitHub\VB\VB\obj\Debug\VB._12.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Form1.resources
