@@ -1,5 +1,5 @@
 ﻿Public Class _13
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    Private Sub Button1_Click(sender As Object, e As EventArgs)
         Меню.Show()
     End Sub
     Private Function Fact(ByVal a As Byte) As Integer
