@@ -75,3 +75,4 @@ F:\GitHub\VB\VB\obj\Debug\VB.exe
 F:\GitHub\VB\VB\obj\Debug\VB.xml
 F:\GitHub\VB\VB\obj\Debug\VB.pdb
 D:\GitHub\VB\VB\obj\Debug\VB.Динамика.resources
+D:\GitHub\VB\VB\obj\Debug\VB.Перемещение_иконки.resources

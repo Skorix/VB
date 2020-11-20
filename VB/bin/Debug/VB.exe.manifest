@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VB.exe" size="906672">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VB.exe" size="1318320">
       <assemblyIdentity name="VB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hURcGPPUoYX1Lz53SHg5S4rAAYcMrGdZS5I6w+/KIoM=</dsig:DigestValue>
+        <dsig:DigestValue>E8Z+kpuDEQnVAnl3doBRYEqAhTsEih3XbnGFqgILiRk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -56,4 +56,8 @@
     Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
         Динамика.Show()
     End Sub
+
+    Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
+        Перемещение_иконки.Show()
+    End Sub
 End Class
